@@ -30,4 +30,3 @@
 * [Python with MongoDB](27\_Day\_Python\_with\_mongodb/27\_python\_with\_mongodb.md)
 * [API](28\_Day\_API/28\_API.md)
 * [Building API](29\_Day\_Building\_API/29\_building\_API.md)
-* [Conclusions](30\_Day\_Conclusions/30\_conclusions.md)
