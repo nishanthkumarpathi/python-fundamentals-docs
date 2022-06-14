@@ -1,6 +1,5 @@
 # Table of contents
 
-* [README](README.md)
 * [Introduction](introduction.md)
 * [Variables, Built-in Functions](02\_Day\_Variables\_builtin\_functions/02\_variables\_builtin\_functions.md)
 * [Operators](03\_Day\_Operators/03\_operators.md)
